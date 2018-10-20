@@ -1,0 +1,2 @@
+# quadratic-equation
+利用numpy、matplotlib繪製一元二次方程式圖形並簡單顯示基本性質
